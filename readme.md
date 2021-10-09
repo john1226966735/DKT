@@ -1,1 +1,1 @@
-I will share my own implemantation of some Deep Learning-based Knowledge Tracing models.
+I will share my own implementation of some Deep Learning-based Knowledge Tracing models.
